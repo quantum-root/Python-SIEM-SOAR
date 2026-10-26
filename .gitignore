@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated security logs and simulation data
+logs/
+
+# Environment variables
+.env.*
+!.env.example
